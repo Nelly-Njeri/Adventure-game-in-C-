@@ -19,3 +19,5 @@ To quit the game, enter "quit".
 Adventuregame.c: Contains the source code for the text-based adventure game.
 README.md: This file providing information about the game and how to run it.
 
+Enjoy the Adventure game!
+
